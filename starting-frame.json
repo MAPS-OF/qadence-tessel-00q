@@ -9,6 +9,7 @@
     "arrangement_coordinate": {
       "card_id": "10♥️",
       "deck": "Where's Waldo",
+      "deck_emoji": "🔎",
       "role": "arrangement-57-coordinate",
       "provenance": "photographed card attachment 2026-08-05 18.08.23",
       "photo_not_committed": true
@@ -16,6 +17,7 @@
     "seed_family_coordinate": {
       "card_id": "9♠️",
       "deck": "Lord of the Rings Heroes & Villains",
+      "deck_emoji": "💍",
       "role": "F-12SLTV5-coordinate",
       "frame_orientation": "upright",
       "opposite_corner_reading": "6♠️ under 180° reversal",
@@ -24,7 +26,7 @@
     }
   },
   "notes": [
-    "The deck names are textual because no emoji IDs have been assigned to either source deck.",
+    "The phase-coordinate decks are locked as 🔎 for Where's Waldo and 💍 for Lord of the Rings Heroes & Villains.",
     "This coordinate names the official starting frame; it does not assert that the photographed cards are the same objects as the solver's internal arrangement records."
   ]
 }
