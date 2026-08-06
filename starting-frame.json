@@ -1,0 +1,30 @@
+{
+  "schema": "maps-of.qadence-tessel-00q.v0",
+  "map_id": "qadence-tessel-00q",
+  "title": "Official initial big-island starting frame",
+  "initial_frame": {
+    "arrangement_number": 57,
+    "seed_family_id": "F-12SLTV5",
+    "centroid_permutation": 3,
+    "arrangement_coordinate": {
+      "card_id": "10♥️",
+      "deck": "Where's Waldo",
+      "role": "arrangement-57-coordinate",
+      "provenance": "photographed card attachment 2026-08-05 18.08.23",
+      "photo_not_committed": true
+    },
+    "seed_family_coordinate": {
+      "card_id": "9♠️",
+      "deck": "Lord of the Rings Heroes & Villains",
+      "role": "F-12SLTV5-coordinate",
+      "frame_orientation": "upright",
+      "opposite_corner_reading": "6♠️ under 180° reversal",
+      "provenance": "photographed card attachment 2026-08-05 18.08.23",
+      "photo_not_committed": true
+    }
+  },
+  "notes": [
+    "The deck names are textual because no emoji IDs have been assigned to either source deck.",
+    "This coordinate names the official starting frame; it does not assert that the photographed cards are the same objects as the solver's internal arrangement records."
+  ]
+}
