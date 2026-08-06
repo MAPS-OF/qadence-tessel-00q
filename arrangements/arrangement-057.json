@@ -4,11 +4,11 @@
   "title": "Arrangement 57 / F-12SLTV5",
   "identity_anchors": {
     "arrangement": { "card_id": "10♥️", "deck": "Where's Waldo", "deck_emoji": "🔎", "role": "arrangement-057" },
-    "seed_family": { "card_id": "9♠️", "deck": "Lord of the Rings Heroes & Villains", "deck_emoji": "💍", "role": "F-12SLTV5", "opposite_corner_reading": "6♠️ under 180° reversal" }
+    "seed_family": { "card_id": "9♠️", "deck": "Lord of the Rings Heroes & Villains", "deck_emoji": "💍⚔️", "role": "F-12SLTV5", "opposite_corner_reading": "6♠️ under 180° reversal" }
   },
   "coordinate_decks": {
     "arrangement": "🔎",
-    "seed_family": "💍"
+    "seed_family": "💍⚔️"
   },
   "preset": "SEDLEC-00Q_ISLAND-001",
   "preset_label": "The Opinionated Set",
@@ -131,6 +131,6 @@
     "The 10♥️ and 9♠️ identities anchor this map to the human-selected arrangement and family coordinates.",
     "The 9♠️ card is also the role card for permutation #2; card identity is scoped by relation and does not collapse the two meanings.",
     "The #43 role remains #43 with an X flip; it is never relabeled #60."
-    ,"The 🔎 and 💍 decks identify coordinates at this map layer; perspective-layer nonomino cards are not yet cast."
+    ,"The 🔎 and 💍⚔️ decks identify coordinates at this map layer; perspective-layer nonomino cards are not yet cast."
   ]
 }
