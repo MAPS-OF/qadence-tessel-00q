@@ -1,0 +1,27 @@
+{
+  "schema": "maps-of.nonomino-casting.v0",
+  "map_id": "qadence-tessel-00q",
+  "preset": "SEDLEC-00Q_ISLAND-001",
+  "preset_label": "The Opinionated Set",
+  "casting": "WITH/🔱/AS/deck-of/AQUAMAN",
+  "mapping_policy": "Deal order maps in order to the current corrected opinionated-set order; immutable base permutation IDs and shape transforms are separate fields.",
+  "centroid": { "permutation_number": 3, "slot": 5 },
+  "roles": [
+    { "deal_index": 1, "card_id": "5♠️⬆️", "permutation_number": 49, "shape_transform": "identity" },
+    { "deal_index": 2, "card_id": "🃏🟩⬆️", "permutation_number": 43, "shape_transform": "x-flipped", "notes": "This is #43 X-flipped, never #60." },
+    { "deal_index": 3, "card_id": "2♥️⬆️", "permutation_number": 13, "shape_transform": "identity" },
+    { "deal_index": 4, "card_id": "Q♦️⬇️", "permutation_number": 26, "shape_transform": "identity" },
+    { "deal_index": 5, "card_id": "🃏🟨⬇️", "permutation_number": 3, "shape_transform": "identity", "role": "centroid" },
+    { "deal_index": 6, "card_id": "5♦️⬆️", "permutation_number": 4, "shape_transform": "identity" },
+    { "deal_index": 7, "card_id": "6♥️⬇️", "permutation_number": 97, "shape_transform": "identity" },
+    { "deal_index": 8, "card_id": "J♠️⬇️", "permutation_number": 9, "shape_transform": "identity" },
+    { "deal_index": 9, "card_id": "3♠️⬆️", "permutation_number": 1, "shape_transform": "identity" },
+    { "deal_index": 10, "card_id": "3♦️⬆️", "permutation_number": 21, "shape_transform": "identity" },
+    { "deal_index": 11, "card_id": "9♠️⬇️", "permutation_number": 2, "shape_transform": "identity" },
+    { "deal_index": 12, "card_id": "K♦️⬇️", "permutation_number": 6, "shape_transform": "identity" },
+    { "deal_index": 13, "card_id": "A♣️⬇️", "permutation_number": 8, "shape_transform": "x-flipped", "notes": "Horizontal mirror: minimum and maximum X coordinates are exchanged." },
+    { "deal_index": 14, "card_id": "2♠️⬆️", "permutation_number": 24, "shape_transform": "identity" },
+    { "deal_index": 15, "card_id": "Q♠️⬇️", "permutation_number": 40, "shape_transform": "x-and-y-flipped", "notes": "Both axis flips; equivalent to a 180-degree rotation." }
+  ],
+  "source": "human-dealt AQUAMAN card order and prior orientation corrections in Codex thread"
+}
